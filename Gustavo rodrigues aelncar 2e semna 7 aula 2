@@ -1,0 +1,18 @@
+<html> <title>pagina</title>
+<head> <h1> <center> pagina de versionamento </h1> </center> </head>
+<p>
+<body bgcolor= "b715b7">
+<marquee>
+<img src="https://th.bing.com/th/id/OIP.OMeY5HesFceGyCS4biSd5QHaEK?w=269&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7" width="400"height=300">
+<img src ="https://th.bing.com/th/id/OIP.ccDI4Azo0Gi9NIgI_qaV-wHaEK?w=297&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7" width="400"height=300">
+<img src ="https://th.bing.com/th/id/OIP.X6P8DCrU0nZ3OsmnTRHyHgHaHa?w=162&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7" width="400"height=300">
+<img src ="https://th.bing.com/th/id/OIP.yBh8nurLB9jzisfJ875zLgHaEK?w=286&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7" width="400"height=300">
+</marquee> <p><center>
+<table border="1" width= "800">
+<tr> <td> O GitHub é uma plataforma de controle de versões gratuita </td>
+ <td> Banco de dados é a organização e armazenagem de informações sobre um domínio específico1 </td>
+ <td> sql(Structured Query Language) é uma linguagem de programação usada para gerenciar e manipular bancos de dados relacionais </td>
+</tr> </table>
+</body> </html>
+
+
